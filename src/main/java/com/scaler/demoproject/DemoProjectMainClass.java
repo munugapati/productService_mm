@@ -12,6 +12,7 @@ public class DemoProjectMainClass {
         p.setTitle("xyz");
 
         SpringApplication.run(DemoProjectMainClass.class, args);
+        //added comment
     }
 
 }
